@@ -1,0 +1,10 @@
+{
+  "name": "DJ Manager",
+  "short_name": "DJ Manager",
+  "description": "Gestione personale di serate DJ, cachet, spese e location",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#101722",
+  "theme_color": "#101722",
+  "icons": []
+}
